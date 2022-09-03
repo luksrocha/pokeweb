@@ -24,5 +24,5 @@ yarn
 
 then run the project
 ```bash 
-yarn vite
+yarn dev
 ```
